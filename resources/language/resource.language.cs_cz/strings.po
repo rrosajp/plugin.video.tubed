@@ -3,35 +3,35 @@ msgstr ""
 "Project-Id-Version: STRINGS\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2016-09-18 00:54+0000\n"
-"PO-Revision-Date: 2022-05-09 13:14+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2026-07-07 20:16+0000\n"
+"Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-video/plugin-video-tubed/cs_cz/>\n"
 "Language: cs_cz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 2026.7\n"
 
 msgctxt "Addon Summary"
 msgid "Watch your favorite YouTube content on Kodi"
-msgstr ""
+msgstr "Sledujte svůj oblíbený obsah z YouTube v Kodi"
 
 msgctxt "Addon Description"
 msgid "Browse your favorite content from YouTube; create, delete, and rename playlists; subscribe or unsubscribe from your favorite channels; and rate your favorite videos."
-msgstr ""
+msgstr "Procházejte svůj oblíbený obsah z YouTube, vytvářejte, mažte a přejmenovávejte seznamy přehrávání, přihlašujte se k odběru oblíbených kanálů nebo odběr rušte a hodnoťte oblíbená videa."
 
 msgctxt "Addon Disclaimer"
 msgid "Tubed's use of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements. For more information on how your data is handled see Tubed's Privacy Policy at https://panicked.xyz/tubed-privacy/"
-msgstr ""
+msgstr "Používání informací získaných z rozhraní Google API doplňkem Tubed bude v souladu se zásadami Google API Services User Data Policy, včetně požadavků Limited Use. Další informace o zpracování vašich dat najdete v zásadách ochrany soukromí doplňku Tubed na adrese https://panicked.xyz/tubed-privacy/"
 
 msgctxt "#30000"
 msgid "Most Popular"
-msgstr ""
+msgstr "Nejoblíbenější"
 
 msgctxt "#30001"
 msgid "Next Page"
-msgstr ""
+msgstr "Další stránka"
 
 msgctxt "#30002"
 msgid "Recommendations"
@@ -71,7 +71,7 @@ msgstr "Živě"
 
 msgctxt "#30011"
 msgid "Sign in with Google"
-msgstr ""
+msgstr "Přihlásit se pomocí Google"
 
 msgctxt "#30012"
 msgid "Sign Out"
@@ -79,7 +79,7 @@ msgstr "Odhlásit"
 
 msgctxt "#30013"
 msgid "Manage Users"
-msgstr ""
+msgstr "Spravovat uživatele"
 
 msgctxt "#30014"
 msgid "New Search"
@@ -87,35 +87,35 @@ msgstr "Nové hledání"
 
 msgctxt "#30015"
 msgid "Enter your search term"
-msgstr ""
+msgstr "Zadejte hledaný výraz"
 
 msgctxt "#30016"
 msgid "Go to %s and enter the following code:"
-msgstr ""
+msgstr "Přejděte na %s a zadejte následující kód:"
 
 msgctxt "#30017"
 msgid "New user..."
-msgstr ""
+msgstr "Nový uživatel..."
 
 msgctxt "#30018"
 msgid "Rename user..."
-msgstr ""
+msgstr "Přejmenovat uživatele..."
 
 msgctxt "#30019"
 msgid "Remove user..."
-msgstr ""
+msgstr "Odebrat uživatele..."
 
 msgctxt "#30020"
 msgid "New Username"
-msgstr ""
+msgstr "Nové uživatelské jméno"
 
 msgctxt "#30021"
 msgid "Remove User"
-msgstr ""
+msgstr "Odebrat uživatele"
 
 msgctxt "#30022"
 msgid "Removing %s, are you sure?"
-msgstr ""
+msgstr "Opravdu chcete odebrat uživatele %s?"
 
 msgctxt "#30023"
 msgid "Uploads"
@@ -123,19 +123,19 @@ msgstr "Nahrát"
 
 msgctxt "#30024"
 msgid "You are about to sign out, are you sure?"
-msgstr ""
+msgstr "Opravdu se chcete odhlásit?"
 
 msgctxt "#30025"
 msgid "Categories"
-msgstr ""
+msgstr "Kategorie"
 
 msgctxt "#30026"
 msgid "Remove..."
-msgstr ""
+msgstr "Odebrat..."
 
 msgctxt "#30027"
 msgid "Clear history"
-msgstr ""
+msgstr "Vymazat historii"
 
 msgctxt "#30028"
 msgid "General"
@@ -143,19 +143,19 @@ msgstr "Obecné"
 
 msgctxt "#30029"
 msgid "Quality"
-msgstr ""
+msgstr "Kvalita"
 
 msgctxt "#30030"
 msgid "Choose the maximum playback quality for videos and live content"
-msgstr ""
+msgstr "Zvolte maximální kvalitu přehrávání videí a živého obsahu"
 
 msgctxt "#30031"
 msgid "Limit to 30 fps"
-msgstr ""
+msgstr "Omezit na 30 sn./s"
 
 msgctxt "#30032"
 msgid "Limit playback quality to 30 fps or less"
-msgstr ""
+msgstr "Omezit kvalitu přehrávání na 30 sn./s nebo méně"
 
 msgctxt "#30033"
 msgid "HDR"
@@ -163,7 +163,7 @@ msgstr "HDR"
 
 msgctxt "#30034"
 msgid "Use the best matching HDR streams for videos"
-msgstr ""
+msgstr "Používat pro videa nejlépe odpovídající streamy HDR"
 
 msgctxt "#30035"
 msgid "Adaptive (MP4/H264)"
@@ -191,19 +191,19 @@ msgstr "720p (HD)"
 
 msgctxt "#30041"
 msgid "1080p (FHD)"
-msgstr ""
+msgstr "1080p (FHD)"
 
 msgctxt "#30042"
 msgid "1440p (QHD)"
-msgstr ""
+msgstr "1440p (QHD)"
 
 msgctxt "#30043"
 msgid "2160p (4K)"
-msgstr ""
+msgstr "2160p (4K)"
 
 msgctxt "#30044"
 msgid "4320p (8K)"
-msgstr ""
+msgstr "4320p (8K)"
 
 msgctxt "#30045"
 msgid "Playback"
@@ -211,11 +211,11 @@ msgstr "Přehrávání"
 
 msgctxt "#30046"
 msgid "Watch Later"
-msgstr "Shlédnout později"
+msgstr "Přehrát později"
 
 msgctxt "#30047"
 msgid "Regional"
-msgstr ""
+msgstr "Regionální"
 
 msgctxt "#30048"
 msgid "Language"
@@ -223,7 +223,7 @@ msgstr "Jazyk"
 
 msgctxt "#30049"
 msgid "Your preferred YouTube UI language"
-msgstr ""
+msgstr "Preferovaný jazyk rozhraní YouTube"
 
 msgctxt "#30050"
 msgid "Region"
@@ -231,15 +231,15 @@ msgstr "Region"
 
 msgctxt "#30051"
 msgid "Your preferred content region"
-msgstr ""
+msgstr "Preferovaný region obsahu"
 
 msgctxt "#30052"
 msgid "Configure regional preferences"
-msgstr ""
+msgstr "Nastavit regionální předvolby"
 
 msgctxt "#30053"
 msgid "Configure your preferred language and region"
-msgstr ""
+msgstr "Nastavit preferovaný jazyk a region"
 
 msgctxt "#30054"
 msgid "Configure subtitles"
@@ -247,7 +247,7 @@ msgstr "Konfigurovat titulky"
 
 msgctxt "#30055"
 msgid "Configure your preferred subtitle language"
-msgstr ""
+msgstr "Nastavit preferovaný jazyk titulků"
 
 msgctxt "#30056"
 msgid "Subtitle language"
@@ -255,19 +255,19 @@ msgstr "Jazyk titulků"
 
 msgctxt "#30057"
 msgid "Your preferred subtitle language"
-msgstr ""
+msgstr "Preferovaný jazyk titulků"
 
 msgctxt "#30058"
 msgid "Subtitles"
-msgstr ""
+msgstr "Titulky"
 
 msgctxt "#30059"
 msgid "%s with %s fallback"
-msgstr "Nefunkční %s s %s"
+msgstr "%s se záložním jazykem %s"
 
 msgctxt "#30060"
 msgid "No auto-generated"
-msgstr "Žádné automatické generování"
+msgstr "Bez automaticky generovaných"
 
 msgctxt "#30061"
 msgid "None"
@@ -275,7 +275,7 @@ msgstr "Žádné"
 
 msgctxt "#30062"
 msgid "Prompt"
-msgstr "Přizpůsobit"
+msgstr "Zeptat se"
 
 msgctxt "#30063"
 msgid "Subscribe"
@@ -283,7 +283,7 @@ msgstr "Přihlásit k odběru"
 
 msgctxt "#30064"
 msgid "Subscribed"
-msgstr ""
+msgstr "Odběr přihlášen"
 
 msgctxt "#30065"
 msgid "Unsubscribe"
@@ -291,15 +291,15 @@ msgstr "Odhlásit odběr"
 
 msgctxt "#30066"
 msgid "Unsubscribed"
-msgstr ""
+msgstr "Odběr odhlášen"
 
 msgctxt "#30067"
 msgid "Error"
-msgstr ""
+msgstr "Chyba"
 
 msgctxt "#30068"
 msgid "Play (Prompt for subtitles)"
-msgstr ""
+msgstr "Přehrát (zeptat se na titulky)"
 
 msgctxt "#30069"
 msgid "Go to %s"
@@ -307,15 +307,15 @@ msgstr "Přejít na %s"
 
 msgctxt "#30070"
 msgid "Subscribed to %s"
-msgstr ""
+msgstr "Přihlášen odběr kanálu %s"
 
 msgctxt "#30071"
 msgid "Unsubscribed from %s"
-msgstr ""
+msgstr "Odhlášen odběr kanálu %s"
 
 msgctxt "#30072"
 msgid "Rate"
-msgstr ""
+msgstr "Hodnotit"
 
 msgctxt "#30073"
 msgid "I like this"
@@ -327,23 +327,23 @@ msgstr "Nelíbí se mi to"
 
 msgctxt "#30075"
 msgid "Remove rating"
-msgstr ""
+msgstr "Odebrat hodnocení"
 
 msgctxt "#30076"
 msgid "Liked"
-msgstr ""
+msgstr "Líbí se"
 
 msgctxt "#30077"
 msgid "Disliked"
-msgstr ""
+msgstr "Nelíbí se"
 
 msgctxt "#30078"
 msgid "Liked %s"
-msgstr ""
+msgstr "Označeno jako líbí se: %s"
 
 msgctxt "#30079"
 msgid "Disliked %s"
-msgstr ""
+msgstr "Označeno jako nelíbí se: %s"
 
 msgctxt "#30080"
 msgid "Rating removed"
@@ -351,195 +351,195 @@ msgstr "Hodnocení odstraněno"
 
 msgctxt "#30081"
 msgid "Rating removed from %s"
-msgstr ""
+msgstr "Hodnocení položky %s odebráno"
 
 msgctxt "#30082"
 msgid "New playlist"
-msgstr ""
+msgstr "Nový seznam přehrávání"
 
 msgctxt "#30083"
 msgid "Add to playlist"
-msgstr ""
+msgstr "Přidat do seznamu přehrávání"
 
 msgctxt "#30084"
 msgid "Remove from playlist"
-msgstr ""
+msgstr "Odebrat ze seznamu přehrávání"
 
 msgctxt "#30085"
 msgid "Delete playlist"
-msgstr ""
+msgstr "Smazat seznam přehrávání"
 
 msgctxt "#30086"
 msgid "Enter your playlist title"
-msgstr ""
+msgstr "Zadejte název seznamu přehrávání"
 
 msgctxt "#30087"
 msgid "Added %s to %s"
-msgstr ""
+msgstr "Přidáno %s do seznamu %s"
 
 msgctxt "#30088"
 msgid "Removed from playlist"
-msgstr "Odstraněno ze seznamu"
+msgstr "Odebráno ze seznamu přehrávání"
 
 msgctxt "#30089"
 msgid "Removed %s from playlist"
-msgstr ""
+msgstr "Odebráno %s ze seznamu přehrávání"
 
 msgctxt "#30090"
 msgid "Playlist deleted"
-msgstr ""
+msgstr "Seznam přehrávání smazán"
 
 msgctxt "#30091"
 msgid "%s playlist deleted"
-msgstr ""
+msgstr "Seznam přehrávání %s smazán"
 
 msgctxt "#30092"
 msgid "Rename playlist"
-msgstr ""
+msgstr "Přejmenovat seznam přehrávání"
 
 msgctxt "#30093"
 msgid "Playlist renamed to %s"
-msgstr ""
+msgstr "Seznam přehrávání přejmenován na %s"
 
 msgctxt "#30094"
 msgid "%s renamed to %s"
-msgstr ""
+msgstr "%s přejmenováno na %s"
 
 msgctxt "#30095"
 msgid "You are about to delete %s, are you sure?"
-msgstr ""
+msgstr "Opravdu chcete smazat %s?"
 
 msgctxt "#30096"
 msgid "You are about to delete a playlist, are you sure?"
-msgstr ""
+msgstr "Opravdu chcete smazat seznam přehrávání?"
 
 msgctxt "#30097"
 msgid "Upcoming"
-msgstr ""
+msgstr "Nadcházející"
 
 msgctxt "#30098"
 msgid "Completed"
-msgstr ""
+msgstr "Dokončené"
 
 msgctxt "#30099"
 msgid "%s was scheduled to start %s"
-msgstr ""
+msgstr "Zahájení %s bylo naplánováno na %s"
 
 msgctxt "#30100"
 msgid "%s is scheduled to start %s"
-msgstr ""
+msgstr "Zahájení %s je naplánováno na %s"
 
 msgctxt "#30101"
 msgid "Related videos"
-msgstr ""
+msgstr "Související videa"
 
 msgctxt "#30102"
 msgid "Cache"
-msgstr ""
+msgstr "Mezipaměť"
 
 msgctxt "#30103"
 msgid "Data cache TTL (weeks)"
-msgstr ""
+msgstr "TTL mezipaměti dat (týdny)"
 
 msgctxt "#30104"
 msgid "Function cache TTL (minutes)"
-msgstr ""
+msgstr "TTL mezipaměti funkcí (minuty)"
 
 msgctxt "#30105"
 msgid "Clear data cache"
-msgstr "Smazat data mezipaměti"
+msgstr "Vyprázdnit mezipaměť dat"
 
 msgctxt "#30106"
 msgid "Clear function cache"
-msgstr "Smazat mezipaměť"
+msgstr "Vyprázdnit mezipaměť funkcí"
 
 msgctxt "#30107"
 msgid "Data cache was cleared"
-msgstr ""
+msgstr "Mezipaměť dat vyprázdněna"
 
 msgctxt "#30108"
 msgid "Function cache was cleared"
-msgstr ""
+msgstr "Mezipaměť funkcí vyprázdněna"
 
 msgctxt "#30109"
 msgid "Delete data cache"
-msgstr ""
+msgstr "Smazat databázi mezipaměti dat"
 
 msgctxt "#30110"
 msgid "Delete function cache"
-msgstr ""
+msgstr "Smazat databázi mezipaměti funkcí"
 
 msgctxt "#30111"
 msgid "Data cache was deleted"
-msgstr ""
+msgstr "Databáze mezipaměti dat smazána"
 
 msgctxt "#30112"
 msgid "Function cache was deleted"
-msgstr ""
+msgstr "Databáze mezipaměti funkcí smazána"
 
 msgctxt "#30113"
 msgid "Time to Live"
-msgstr ""
+msgstr "Doba platnosti"
 
 msgctxt "#30114"
 msgid "Maintenance"
-msgstr "Podporované"
+msgstr "Údržba"
 
 msgctxt "#30115"
 msgid "How long until long term data cache expires in weeks"
-msgstr ""
+msgstr "Za jak dlouho vyprší platnost dlouhodobé mezipaměti dat, v týdnech"
 
 msgctxt "#30116"
 msgid "How long until short term function cache expires in minutes"
-msgstr ""
+msgstr "Za jak dlouho vyprší platnost krátkodobé mezipaměti funkcí, v minutách"
 
 msgctxt "#30117"
 msgid "Clearing long term data cache will remove all entries from the database"
-msgstr ""
+msgstr "Vyprázdnění dlouhodobé mezipaměti dat odstraní z databáze všechny záznamy"
 
 msgctxt "#30118"
 msgid "Clearing short term function cache will remove all cache entries"
-msgstr ""
+msgstr "Vyprázdnění krátkodobé mezipaměti funkcí odstraní všechny záznamy mezipaměti"
 
 msgctxt "#30119"
 msgid "Deleting long term data cache will delete the whole database"
-msgstr ""
+msgstr "Smazání dlouhodobé mezipaměti dat smaže celou databázi"
 
 msgctxt "#30120"
 msgid "Deleting short term function cache will delete the whole database"
-msgstr ""
+msgstr "Smazání krátkodobé mezipaměti funkcí smaže celou databázi"
 
 msgctxt "#30121"
 msgid "Failed to clear function cache"
-msgstr ""
+msgstr "Nepodařilo se vyprázdnit mezipaměť funkcí"
 
 msgctxt "#30122"
 msgid "Failed to clear data cache"
-msgstr ""
+msgstr "Nepodařilo se vyprázdnit mezipaměť dat"
 
 msgctxt "#30123"
 msgid "Failed to delete function cache"
-msgstr ""
+msgstr "Nepodařilo se smazat databázi mezipaměti funkcí"
 
 msgctxt "#30124"
 msgid "Failed to delete data cache"
-msgstr ""
+msgstr "Nepodařilo se smazat databázi mezipaměti dat"
 
 msgctxt "#30125"
 msgid "Debug"
-msgstr ""
+msgstr "Ladění"
 
 msgctxt "#30126"
 msgid "Component Logging"
-msgstr ""
+msgstr "Protokolování komponenty"
 
 msgctxt "#30127"
 msgid "API requests"
-msgstr ""
+msgstr "Požadavky API"
 
 msgctxt "#30128"
 msgid "Enable logging of API requests and responses"
-msgstr ""
+msgstr "Povolit protokolování požadavků a odpovědí API"
 
 msgctxt "#30129"
 msgid "Comments"
@@ -547,11 +547,11 @@ msgstr "Komentáře"
 
 msgctxt "#30130"
 msgid "Comment"
-msgstr ""
+msgstr "Komentář"
 
 msgctxt "#30131"
 msgid "Read comment"
-msgstr ""
+msgstr "Přečíst komentář"
 
 msgctxt "#30132"
 msgid "Likes"
@@ -563,111 +563,111 @@ msgstr "Odpovědi"
 
 msgctxt "#30134"
 msgid "Comment has been edited"
-msgstr ""
+msgstr "Komentář byl upraven"
 
 msgctxt "#30135"
 msgid "Limits"
-msgstr ""
+msgstr "Limity"
 
 msgctxt "#30136"
 msgid "Data cache (MB)"
-msgstr ""
+msgstr "Mezipaměť dat (MB)"
 
 msgctxt "#30137"
 msgid "The maximum size of long term data cache before being automatically resized"
-msgstr ""
+msgstr "Maximální velikost dlouhodobé mezipaměti dat před automatickou změnou velikosti"
 
 msgctxt "#30138"
 msgid "Sort order"
-msgstr ""
+msgstr "Pořadí řazení"
 
 msgctxt "#30139"
 msgid "Choose a sort order"
-msgstr ""
+msgstr "Zvolte pořadí řazení"
 
 msgctxt "#30140"
 msgid "Alphabetical"
-msgstr ""
+msgstr "Abecedně"
 
 msgctxt "#30141"
 msgid "Relevance"
-msgstr ""
+msgstr "Relevance"
 
 msgctxt "#30142"
 msgid "Activity"
-msgstr ""
+msgstr "Aktivita"
 
 msgctxt "#30143"
 msgid "Time"
-msgstr ""
+msgstr "Čas"
 
 msgctxt "#30144"
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 msgctxt "#30145"
 msgid "Rating"
-msgstr ""
+msgstr "Hodnocení"
 
 msgctxt "#30146"
 msgid "Title"
-msgstr "Skladba"
+msgstr "Název"
 
 msgctxt "#30147"
 msgid "Video Count"
-msgstr ""
+msgstr "Počet videí"
 
 msgctxt "#30148"
 msgid "View Count"
-msgstr ""
+msgstr "Počet zhlédnutí"
 
 msgctxt "#30149"
 msgid "Post Play"
-msgstr ""
+msgstr "Po přehrání"
 
 msgctxt "#30150"
 msgid "Post play minimum watch percentage"
-msgstr ""
+msgstr "Minimální procento zhlédnutí pro akce po přehrání"
 
 msgctxt "#30151"
 msgid "What percent of the video's duration must be watched to trigger post play events"
-msgstr ""
+msgstr "Jaké procento délky videa musí být zhlédnuto, aby se spustily akce po přehrání"
 
 msgctxt "#30152"
 msgid "Rate the video that just finished playing"
-msgstr ""
+msgstr "Ohodnotit právě přehrané video"
 
 msgctxt "#30153"
 msgid "Rate during playlists"
-msgstr ""
+msgstr "Hodnotit během přehrávání seznamů přehrávání"
 
 msgctxt "#30154"
 msgid "Should rating be requested while watching playlists"
-msgstr ""
+msgstr "Má se při sledování seznamů přehrávání zobrazovat výzva k hodnocení"
 
 msgctxt "#30155"
 msgid "Autoplay related videos"
-msgstr ""
+msgstr "Automaticky přehrávat související videa"
 
 msgctxt "#30156"
 msgid "Autoplay videos related to the previously played video"
-msgstr ""
+msgstr "Automaticky přehrávat videa související s dříve přehrávaným videem"
 
 msgctxt "#30157"
 msgid "Set as History"
-msgstr "Nastavit historii"
+msgstr "Nastavit jako historii"
 
 msgctxt "#30158"
 msgid "Set as Watch Later"
-msgstr "Nastavit 'Shlédnout později'"
+msgstr "Nastavit jako Přehrát později"
 
 msgctxt "#30159"
 msgid "Remove as History"
-msgstr "Odstranit historii"
+msgstr "Odebrat jako historii"
 
 msgctxt "#30160"
 msgid "Remove as Watch Later"
-msgstr "Odstranit 'Shlédnout později'"
+msgstr "Odebrat jako Přehrát později"
 
 msgctxt "#30161"
 msgid "History"
@@ -675,91 +675,91 @@ msgstr "Historie"
 
 msgctxt "#30162"
 msgid "Watch later playlist configured"
-msgstr ""
+msgstr "Seznam Přehrát později nastaven"
 
 msgctxt "#30163"
 msgid "History playlist configured"
-msgstr ""
+msgstr "Seznam historie nastaven"
 
 msgctxt "#30164"
 msgid "%s was configured as your watch later playlist"
-msgstr ""
+msgstr "%s byl nastaven jako váš seznam Přehrát později"
 
 msgctxt "#30165"
 msgid "%s was configured as your history playlist"
-msgstr ""
+msgstr "%s byl nastaven jako váš seznam historie"
 
 msgctxt "#30166"
 msgid "Watch later playlist is no longer configured"
-msgstr ""
+msgstr "Seznam Přehrát později už není nastaven"
 
 msgctxt "#30167"
 msgid "History playlist is no longer configured"
-msgstr ""
+msgstr "Seznam historie už není nastaven"
 
 msgctxt "#30168"
 msgid "%s is no longer configured as your watch later playlist"
-msgstr ""
+msgstr "%s už není nastaven jako váš seznam Přehrát později"
 
 msgctxt "#30169"
 msgid "%s is no longer configured as your history playlist"
-msgstr ""
+msgstr "%s už není nastaven jako váš seznam historie"
 
 msgctxt "#30170"
 msgid "Add to watch later"
-msgstr ""
+msgstr "Přidat do seznamu Přehrát později"
 
 msgctxt "#30171"
 msgid "Favorite Channels"
-msgstr ""
+msgstr "Oblíbené kanály"
 
 msgctxt "#30172"
 msgid "Add to favorite channels"
-msgstr ""
+msgstr "Přidat do oblíbených kanálů"
 
 msgctxt "#30173"
 msgid "Clear favorite channels"
-msgstr ""
+msgstr "Vymazat oblíbené kanály"
 
 msgctxt "#30174"
 msgid "Added to favorite channels"
-msgstr ""
+msgstr "Přidáno do oblíbených kanálů"
 
 msgctxt "#30175"
 msgid "Removed from favorite channels"
-msgstr ""
+msgstr "Odebráno z oblíbených kanálů"
 
 msgctxt "#30176"
 msgid "Import from xml"
-msgstr ""
+msgstr "Importovat z XML"
 
 msgctxt "#30177"
 msgid "Import failed"
-msgstr ""
+msgstr "Import se nezdařil"
 
 msgctxt "#30178"
 msgid "Import completed successfully"
-msgstr ""
+msgstr "Import byl úspěšně dokončen"
 
 msgctxt "#30179"
 msgid "You are about to clear your favorite channels, are you sure?"
-msgstr ""
+msgstr "Opravdu chcete vymazat své oblíbené kanály?"
 
 msgctxt "#30180"
 msgid "Favorite channels cleared"
-msgstr ""
+msgstr "Oblíbené kanály vymazány"
 
 msgctxt "#30181"
 msgid "Add %s to favorite channels"
-msgstr ""
+msgstr "Přidat %s do oblíbených kanálů"
 
 msgctxt "#30182"
 msgid "Added %s to favorite channels"
-msgstr ""
+msgstr "Přidáno %s do oblíbených kanálů"
 
 msgctxt "#30183"
 msgid "Removed %s from favorite channels"
-msgstr ""
+msgstr "Odebráno %s z oblíbených kanálů"
 
 msgctxt "#30184"
 msgid "Refresh"
@@ -767,287 +767,287 @@ msgstr "Obnovit"
 
 msgctxt "#30185"
 msgid "Clear function cache on refresh"
-msgstr ""
+msgstr "Vyprázdnit mezipaměť funkcí při obnovení"
 
 msgctxt "#30186"
 msgid "Short term function cache will be cleared when using Refresh from the context menu"
-msgstr ""
+msgstr "Při použití volby Obnovit z kontextové nabídky bude vyprázdněna krátkodobá mezipaměť funkcí"
 
 msgctxt "#30187"
 msgid "Choose watch later playlist"
-msgstr ""
+msgstr "Zvolte seznam Přehrát později"
 
 msgctxt "#30188"
 msgid "Added %s to the new watch later playlist %s"
-msgstr ""
+msgstr "Přidáno %s do nového seznamu Přehrát později %s"
 
 msgctxt "#30189"
 msgid "Search history items"
-msgstr ""
+msgstr "Položky historie hledání"
 
 msgctxt "#30190"
 msgid "How many search history items should be kept for each user"
-msgstr ""
+msgstr "Kolik položek historie hledání se má uchovávat pro každého uživatele"
 
 msgctxt "#30191"
 msgid "Favorite channels"
-msgstr ""
+msgstr "Oblíbené kanály"
 
 msgctxt "#30192"
 msgid "How many favorite channels should be kept for each user"
-msgstr ""
+msgstr "Kolik oblíbených kanálů se má uchovávat pro každého uživatele"
 
 msgctxt "#30193"
 msgid "Play"
-msgstr ""
+msgstr "Přehrát"
 
 msgctxt "#30194"
 msgid "Play from %s"
-msgstr ""
+msgstr "Přehrát od %s"
 
 msgctxt "#30195"
 msgid "Most Popular Regionally"
-msgstr ""
+msgstr "Nejoblíbenější v regionu"
 
 msgctxt "#30196"
 msgid "Main Menu"
-msgstr ""
+msgstr "Hlavní nabídka"
 
 msgctxt "#30197"
 msgid "Show/Hide this item on the main menu"
-msgstr ""
+msgstr "Zobrazit nebo skrýt tuto položku v hlavní nabídce"
 
 msgctxt "#30198"
 msgid "Hide %s"
-msgstr ""
+msgstr "Skrýt %s"
 
 msgctxt "#30199"
 msgid "%s was hidden from the main menu"
-msgstr ""
+msgstr "%s bylo skryto v hlavní nabídce"
 
 msgctxt "#30200"
 msgid "User is authenticated"
-msgstr ""
+msgstr "Uživatel je přihlášen"
 
 msgctxt "#30201"
 msgid "User is not authenticated"
-msgstr ""
+msgstr "Uživatel není přihlášen"
 
 msgctxt "#30202"
 msgid "Create a new user"
-msgstr ""
+msgstr "Vytvořit nového uživatele"
 
 msgctxt "#30203"
 msgid "Rename a current user"
-msgstr ""
+msgstr "Přejmenovat aktuálního uživatele"
 
 msgctxt "#30204"
 msgid "Remove a current user"
-msgstr ""
+msgstr "Odebrat aktuálního uživatele"
 
 msgctxt "#30205"
 msgid "Change avatar..."
-msgstr ""
+msgstr "Změnit avatar..."
 
 msgctxt "#30206"
 msgid "Change a current user's avatar"
-msgstr ""
+msgstr "Změnit avatar aktuálního uživatele"
 
 msgctxt "#30207"
 msgid "Choose a new avatar"
-msgstr ""
+msgstr "Zvolte nový avatar"
 
 msgctxt "#30208"
 msgid "Up Next"
-msgstr ""
+msgstr "Up Next"
 
 msgctxt "#30209"
 msgid "Links in the description"
-msgstr ""
+msgstr "Odkazy v popisu"
 
 msgctxt "#30210"
 msgid "There were no links found in the description"
-msgstr ""
+msgstr "V popisu nebyly nalezeny žádné odkazy"
 
 msgctxt "#30211"
 msgid "Create a new playlist"
-msgstr ""
+msgstr "Vytvořit nový seznam přehrávání"
 
 msgctxt "#30212"
 msgid "Go to the next page"
-msgstr ""
+msgstr "Přejít na další stránku"
 
 msgctxt "#30213"
 msgid "Rate the selected video"
-msgstr ""
+msgstr "Ohodnotit vybrané video"
 
 msgctxt "#30214"
 msgid "Rate %s"
-msgstr ""
+msgstr "Ohodnotit %s"
 
 msgctxt "#30215"
 msgid "Dialogs"
-msgstr ""
+msgstr "Dialogy"
 
 msgctxt "#30216"
 msgid "Open the autoplay related video dialog for debugging"
-msgstr ""
+msgstr "Otevřít dialog automatického přehrávání souvisejících videí pro ladění"
 
 msgctxt "#30217"
 msgid "Open the sign in dialog for debugging"
-msgstr ""
+msgstr "Otevřít dialog přihlášení pro ladění"
 
 msgctxt "#30218"
 msgid "likes"
-msgstr ""
+msgstr "líbí se"
 
 msgctxt "#30219"
 msgid "dislikes"
-msgstr ""
+msgstr "nelíbí se"
 
 msgctxt "#30220"
 msgid "views"
-msgstr ""
+msgstr "zhlédnutí"
 
 msgctxt "#30221"
 msgid "Chapters"
-msgstr ""
+msgstr "Kapitoly"
 
 msgctxt "#30222"
 msgid "Chapter starts at %s"
-msgstr ""
+msgstr "Kapitola začíná v %s"
 
 msgctxt "#30223"
 msgid "API Module"
-msgstr ""
+msgstr "Modul API"
 
 msgctxt "#30224"
 msgid "Configure API module"
-msgstr ""
+msgstr "Nastavit modul API"
 
 msgctxt "#30225"
 msgid "Open Tubed API settings to configure the API module"
-msgstr ""
+msgstr "Otevřít nastavení API doplňku Tubed pro konfiguraci modulu API"
 
 msgctxt "#30226"
 msgid "Favorite Playlists"
-msgstr ""
+msgstr "Oblíbené seznamy přehrávání"
 
 msgctxt "#30227"
 msgid "Add to favorite playlists"
-msgstr ""
+msgstr "Přidat do oblíbených seznamů přehrávání"
 
 msgctxt "#30228"
 msgid "Clear favorite playlists"
-msgstr ""
+msgstr "Vymazat oblíbené seznamy přehrávání"
 
 msgctxt "#30229"
 msgid "Added to favorite playlists"
-msgstr ""
+msgstr "Přidáno do oblíbených seznamů přehrávání"
 
 msgctxt "#30230"
 msgid "Removed from favorite playlists"
-msgstr ""
+msgstr "Odebráno z oblíbených seznamů přehrávání"
 
 msgctxt "#30231"
 msgid "You are about to clear your favorite playlists, are you sure?"
-msgstr ""
+msgstr "Opravdu chcete vymazat své oblíbené seznamy přehrávání?"
 
 msgctxt "#30232"
 msgid "Favorite playlists cleared"
-msgstr ""
+msgstr "Oblíbené seznamy přehrávání vymazány"
 
 msgctxt "#30233"
 msgid "Add %s to favorite playlists"
-msgstr ""
+msgstr "Přidat %s do oblíbených seznamů přehrávání"
 
 msgctxt "#30234"
 msgid "Added %s to favorite playlists"
-msgstr ""
+msgstr "Přidáno %s do oblíbených seznamů přehrávání"
 
 msgctxt "#30235"
 msgid "Removed %s from favorite playlists"
-msgstr ""
+msgstr "Odebráno %s z oblíbených seznamů přehrávání"
 
 msgctxt "#30236"
 msgid "Favorite playlists"
-msgstr ""
+msgstr "Oblíbené seznamy přehrávání"
 
 msgctxt "#30237"
 msgid "How many favorite playlists should be kept for each user"
-msgstr ""
+msgstr "Kolik oblíbených seznamů přehrávání se má uchovávat pro každého uživatele"
 
 msgctxt "#30238"
 msgid "Backup"
-msgstr ""
+msgstr "Záloha"
 
 msgctxt "#30239"
 msgid "Make a backup"
-msgstr ""
+msgstr "Vytvořit zálohu"
 
 msgctxt "#30240"
 msgid "Backup your Tubed settings, users, search history, favorite channels and favorite playlists"
-msgstr ""
+msgstr "Zálohovat nastavení Tubed, uživatele, historii hledání, oblíbené kanály a oblíbené seznamy přehrávání"
 
 msgctxt "#30241"
 msgid "Restore a backup"
-msgstr ""
+msgstr "Obnovit ze zálohy"
 
 msgctxt "#30242"
 msgid "Restore your Tubed settings, users, search history, favorite channels and favorite playlists from a previous backup"
-msgstr ""
+msgstr "Obnovit nastavení Tubed, uživatele, historii hledání, oblíbené kanály a oblíbené seznamy přehrávání z předchozí zálohy"
 
 msgctxt "#30243"
 msgid "Choose a location to create backup"
-msgstr ""
+msgstr "Zvolte umístění pro vytvoření zálohy"
 
 msgctxt "#30244"
 msgid "Choose a backup to restore"
-msgstr ""
+msgstr "Zvolte zálohu k obnovení"
 
 msgctxt "#30245"
 msgid "Failed to create backup at %s"
-msgstr ""
+msgstr "Nepodařilo se vytvořit zálohu v %s"
 
 msgctxt "#30246"
 msgid "Failed to restore backup from %s"
-msgstr ""
+msgstr "Nepodařilo se obnovit zálohu z %s"
 
 msgctxt "#30247"
 msgid "Backup successfully created at %s"
-msgstr ""
+msgstr "Záloha byla úspěšně vytvořena v %s"
 
 msgctxt "#30248"
 msgid "Backup successfully restored from %s"
-msgstr ""
+msgstr "Záloha byla úspěšně obnovena z %s"
 
 msgctxt "#30249"
 msgid "Client ID: %s"
-msgstr ""
+msgstr "ID klienta: %s"
 
 msgctxt "#30250"
 msgid "Further use of Tubed will be subject to this privacy policy"
-msgstr ""
+msgstr "Další používání doplňku Tubed bude podléhat těmto zásadám ochrany soukromí"
 
 msgctxt "#30251"
 msgid "Accept"
-msgstr ""
+msgstr "Přijmout"
 
 msgctxt "#30252"
 msgid "Decline"
-msgstr ""
+msgstr "Odmítnout"
 
 msgctxt "#30253"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Zásady ochrany soukromí"
 
 msgctxt "#30254"
 msgid "Sign In"
-msgstr "Přihlásit"
+msgstr "Přihlásit se"
 
 msgctxt "#30255"
 msgid "InputStream Adaptive is required and appears to be disabled. Would you like to enable InputStream Adaptive now?"
-msgstr ""
+msgstr "Je vyžadován doplněk InputStream Adaptive a zdá se, že je zakázán. Chcete jej nyní povolit?"
 
 msgctxt "#30256"
 msgid "Settings"
@@ -1055,12 +1055,12 @@ msgstr "Nastavení"
 
 msgctxt "#30257"
 msgid "No entries found"
-msgstr ""
+msgstr "Nenalezeny žádné položky"
 
 msgctxt "#30258"
 msgid "v3 Data API Client"
-msgstr ""
+msgstr "Klient Data API v3"
 
 msgctxt "#30259"
 msgid "YouTube-TV API Client"
-msgstr ""
+msgstr "Klient API YouTube-TV"
