@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: STRINGS\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2016-09-18 00:54+0000\n"
-"PO-Revision-Date: 2026-07-07 20:16+0000\n"
+"PO-Revision-Date: 2026-07-12 21:16+0000\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-video/plugin-video-tubed/cs_cz/>\n"
 "Language: cs_cz\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.7\n"
+"X-Generator: Weblate 2026.7.1\n"
 
 msgctxt "Addon Summary"
 msgid "Watch your favorite YouTube content on Kodi"
@@ -47,11 +47,11 @@ msgstr "Můj kanál"
 
 msgctxt "#30005"
 msgid "Liked Videos"
-msgstr "Videa, která se líbí"
+msgstr "Videa, která se mi líbí"
 
 msgctxt "#30006"
 msgid "Disliked Videos"
-msgstr "Videa, která se nelíbí"
+msgstr "Videa, která se mi nelíbí"
 
 msgctxt "#30007"
 msgid "Playlists"
@@ -75,7 +75,7 @@ msgstr "Přihlásit se pomocí Google"
 
 msgctxt "#30012"
 msgid "Sign Out"
-msgstr "Odhlásit"
+msgstr "Odhlásit se"
 
 msgctxt "#30013"
 msgid "Manage Users"
@@ -119,7 +119,7 @@ msgstr "Opravdu chcete odebrat uživatele %s?"
 
 msgctxt "#30023"
 msgid "Uploads"
-msgstr "Nahrát"
+msgstr "Nahraná videa"
 
 msgctxt "#30024"
 msgid "You are about to sign out, are you sure?"
@@ -267,7 +267,7 @@ msgstr "%s se záložním jazykem %s"
 
 msgctxt "#30060"
 msgid "No auto-generated"
-msgstr "Bez automaticky generovaných"
+msgstr "Bez automaticky generovaných titulků"
 
 msgctxt "#30061"
 msgid "None"
@@ -347,7 +347,7 @@ msgstr "Označeno jako nelíbí se: %s"
 
 msgctxt "#30080"
 msgid "Rating removed"
-msgstr "Hodnocení odstraněno"
+msgstr "Hodnocení odebráno"
 
 msgctxt "#30081"
 msgid "Rating removed from %s"
@@ -463,19 +463,19 @@ msgstr "Mezipaměť funkcí vyprázdněna"
 
 msgctxt "#30109"
 msgid "Delete data cache"
-msgstr "Smazat databázi mezipaměti dat"
+msgstr "Smazat mezipaměť dat"
 
 msgctxt "#30110"
 msgid "Delete function cache"
-msgstr "Smazat databázi mezipaměti funkcí"
+msgstr "Smazat mezipaměť funkcí"
 
 msgctxt "#30111"
 msgid "Data cache was deleted"
-msgstr "Databáze mezipaměti dat smazána"
+msgstr "Mezipaměť dat smazána"
 
 msgctxt "#30112"
 msgid "Function cache was deleted"
-msgstr "Databáze mezipaměti funkcí smazána"
+msgstr "Mezipaměť funkcí smazána"
 
 msgctxt "#30113"
 msgid "Time to Live"
@@ -519,11 +519,11 @@ msgstr "Nepodařilo se vyprázdnit mezipaměť dat"
 
 msgctxt "#30123"
 msgid "Failed to delete function cache"
-msgstr "Nepodařilo se smazat databázi mezipaměti funkcí"
+msgstr "Nepodařilo se smazat mezipaměť funkcí"
 
 msgctxt "#30124"
 msgid "Failed to delete data cache"
-msgstr "Nepodařilo se smazat databázi mezipaměti dat"
+msgstr "Nepodařilo se smazat mezipaměť dat"
 
 msgctxt "#30125"
 msgid "Debug"
@@ -555,7 +555,7 @@ msgstr "Přečíst komentář"
 
 msgctxt "#30132"
 msgid "Likes"
-msgstr "Líbí se"
+msgstr "označení „To se mi líbí“"
 
 msgctxt "#30133"
 msgid "Replies"
@@ -655,19 +655,19 @@ msgstr "Automaticky přehrávat videa související s dříve přehrávaným vid
 
 msgctxt "#30157"
 msgid "Set as History"
-msgstr "Nastavit jako historii"
+msgstr "Nastavit jako seznam historie"
 
 msgctxt "#30158"
 msgid "Set as Watch Later"
-msgstr "Nastavit jako Přehrát později"
+msgstr "Nastavit jako seznam Přehrát později"
 
 msgctxt "#30159"
 msgid "Remove as History"
-msgstr "Odebrat jako historii"
+msgstr "Přestat používat jako seznam historie"
 
 msgctxt "#30160"
 msgid "Remove as Watch Later"
-msgstr "Odebrat jako Přehrát později"
+msgstr "Přestat používat jako seznam Přehrát později"
 
 msgctxt "#30161"
 msgid "History"
